@@ -5,10 +5,10 @@
 
 Each folder in this repository refers to one section in our report.
 
-* **Reproduction** corresponds to the section 2 **Result Reproduction**.
+* **Reproduction** corresponds to the **Section 2 Result Reproduction**.
 
-* **Selection Bias Experiment** corresponds to the section 3 **Selection Bias**.
+* **Selection Bias Experiment** corresponds to the **Section 3 Selection Bias**.
 
-* **ConfidenceIntervalSimulation** corresponds to the section 4 **Discretization and Binarization**.
+* **ConfidenceIntervalSimulation** corresponds to the **Section 4 Discretization and Binarization**.
 
-* **DifferentBaseLearner** corresponds to the section 5 **Meta-learners with Different Base Algorithms**.
+* **DifferentBaseLearner** corresponds to the **Section 5 Meta-learners with Different Base Algorithms**.
