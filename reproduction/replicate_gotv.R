@@ -1,6 +1,10 @@
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# This code hosts our R code for reproducing the author's experiments with GOTV dataset.
+# We used the causalToolbox provided by the paper author.
+
 if (!require("devtools")) install.packages("devtools")
 devtools::install_github("soerenkuenzel/causalToolbox")
 
